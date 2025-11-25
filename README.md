@@ -1,7 +1,5 @@
 # NextStop Detroit
 
-Created: November 8, 2025 1:30 PM
-
 ![b0796152-5675-4341-8916-bbc85890311b-IMG-2713.webp](b0796152-5675-4341-8916-bbc85890311b-IMG-2713.webp)
 
 ## Project Overview
