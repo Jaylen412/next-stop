@@ -1,7 +1,5 @@
 # NextStop Detroit
 
-Created: November 8, 2025 1:30 PM
-
 ![b0796152-5675-4341-8916-bbc85890311b-IMG-2713.webp](b0796152-5675-4341-8916-bbc85890311b-IMG-2713.webp)
 
 ## Project Overview
@@ -29,5 +27,3 @@ Train the model to predict the probability of a delay exceeding 10 minutes (a cr
 - [Tomorrow.io](https://docs.tomorrow.io/reference/realtime-weather) - Weather Data
 - [tomtom](https://developer.tomtom.com/) - Traffic Data
 - [DDOT API Docs](https://www.myddotbus.com/api-doc) - Official API documentation
-
-**Note**: Plans to implement an ETA arrival kiosk exist, but lack mention of AI integration and may be behind schedule. [DDOT Reimagined](https://detroitmi.gov/sites/detroitmi.localhost/files/2023-06/DDOTReimagined_Stakeholders_6.14.23_.pdf)
