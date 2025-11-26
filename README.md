@@ -1,6 +1,6 @@
 # NextStop Detroit
 
-![b0796152-5675-4341-8916-bbc85890311b-IMG-2713.webp](/img/b0796152-5675-4341-8916-bbc85890311b-IMG-2713.webp)
+![b0796152-5675-4341-8916-bbc85890311b-IMG-2713.webp](/readme-files/b0796152-5675-4341-8916-bbc85890311b-IMG-2713.webp)
 
 ## Project Overview
 
