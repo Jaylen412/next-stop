@@ -1,4 +1,4 @@
-package org.jayscode.nextstoprest.repo;
+package org.jayscode.nextstoprest.repo.ai;
 
 import org.jayscode.nextstoprest.model.ai.Prediction;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -19,6 +19,7 @@ import java.util.UUID;
 @JsonIgnoreProperties(ignoreUnknown = true)
 @AllArgsConstructor
 @NoArgsConstructor
+@Table(name = "prediction")
 public class Prediction {
 
     @Id
