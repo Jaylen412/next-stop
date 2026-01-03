@@ -14,4 +14,5 @@ public class PredictionService {
     public PredictionService(@Autowired PredictionRepo predictionRepo) {
         this.predictionRepo = predictionRepo;
     }
+
 }

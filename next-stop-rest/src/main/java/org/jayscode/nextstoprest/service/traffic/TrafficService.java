@@ -14,4 +14,5 @@ public class TrafficService {
     public TrafficService(@Autowired TrafficRepo trafficRepo) {
         this.trafficRepo = trafficRepo;
     }
+
 }
