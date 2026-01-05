@@ -31,7 +31,7 @@ public class Prediction {
     private Weather weather;
     @OneToOne
     private Traffic traffic;
-    private Instant now;
+    private Instant currentTime;
     private Instant predictedEta;
     private float delayGreaterThanTenMinutes;
     private float timeDifferenceBusArrival;
