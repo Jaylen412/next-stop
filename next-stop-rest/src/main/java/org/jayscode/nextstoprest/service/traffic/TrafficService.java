@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class TrafficService {
 
-   private TrafficRepo trafficRepo;
+   private final TrafficRepo trafficRepo;
 
     public TrafficService(@Autowired TrafficRepo trafficRepo) {
         this.trafficRepo = trafficRepo;

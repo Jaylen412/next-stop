@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class WeatherService {
 
-    private WeatherRepo weatherRepo;
+    private final WeatherRepo weatherRepo;
 
     public WeatherService(@Autowired WeatherRepo weatherRepo) {
         this.weatherRepo = weatherRepo;

@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class PredictionService {
 
-    private PredictionRepo predictionRepo;
+    private final PredictionRepo predictionRepo;
 
     public PredictionService(@Autowired PredictionRepo predictionRepo) {
         this.predictionRepo = predictionRepo;
